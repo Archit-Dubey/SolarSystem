@@ -23,6 +23,8 @@ This simultion of our Solar System allows users to explore and interact with cel
 - **Interactive Zoom** : Users can zoom in and out using two different methods: by clicking on a celestial body to quickly focus on it or by using the mouse scroll wheel to smoothly zoom in and out.
   
 - **360-Degree Exploration** : To observe the solar system from different angles, users can click and hold the left mouse button, then drag to change their viewpoint, allowing for a full 360-degree view of the celestial bodies.
+
+- **Quick Adjust** : To reset the camera position back to normal, simply click on the right mouse button.
   
 - **Fullscreen Button** : To maximize the window size. ***This feature is for web browsers only.***
 
