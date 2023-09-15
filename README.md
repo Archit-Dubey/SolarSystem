@@ -14,7 +14,7 @@
 
 ## Description
 
-This simultion of our Solar System allows users to explore and interact with celestial bodies. This project includes the Sun and the eight planets in our solar system, namely Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+This simulation of our Solar System allows users to explore and interact with celestial bodies. This project includes the Sun and the eight planets in our solar system, namely Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
 
 ## Features
 
