@@ -32,7 +32,7 @@ This simultion of our Solar System allows users to explore and interact with cel
 
 Simply click on this link to redirect to the game [https://archit-dubey.github.io/SolarSystem/](https://archit-dubey.github.io/SolarSystem/).
 
-Available for download in [https://arcdub.itch.io/solar-system/](https://arcdub.itch.io/solar-system/).
+Available for download at [https://arcdub.itch.io/solar-system/](https://arcdub.itch.io/solar-system/).
 
 ## Screenshots
 
